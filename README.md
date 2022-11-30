@@ -1,2 +1,2 @@
 # rclone_xbar
-This is a work-in-progress on a future rclone-mount plugin for xbar.
+This is an initial version of rclone mount and unmount plugin for xbar.
